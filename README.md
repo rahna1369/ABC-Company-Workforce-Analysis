@@ -14,6 +14,6 @@ A data analysis project using Python and Pandas to analyze employee distribution
 ##### ​4. **Financial Expenditure**
 ​* **The Findings:** The Cleveland Cavaliers represent the highest total salary expenditure.
 ​* **The Insight:** Despite being the smallest group, the Center (C) position commands the highest total salary expenditure, suggesting these are the highest-valued roles.
-​##### 5. **Age and Salary Correlation**
+##### 5. **Age and Salary Correlation**
 * **​The Findings:** Our analysis yielded a correlation coefficient of 0.21.
 * **​The Insight:** This weak positive correlation indicates that salary is driven more by position and merit than by seniority alone.
